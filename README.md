@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pestenegro
+- 👋 Hi, I’m @douglas.agmg
 - 👀 I’m interested in learning python, R and Excel
 - 🌱 I’m currently learning the basics of programming
 - 💞️ I’m looking to collaborate on the postponement of the end of the world (try reading Ailton Krenak's books)
